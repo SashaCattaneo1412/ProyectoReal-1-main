@@ -8,7 +8,7 @@ const Footer = () => {
         <Link href="/index"> HomePage </Link>
         <Link href="/Registrarse"> Registrarse </Link>
         <Link href="/InicioSesion"> Inicio de sesion </Link>
-        <Link href="/Pastilla"> Pastillas </Link>
+        <Link href="/pastilla1"> Pastillas </Link>
       </nav>
       <div className={styles.info}>
        <p>Contactanos: 11 6018-4022</p>

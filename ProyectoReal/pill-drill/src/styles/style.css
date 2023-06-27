@@ -6,7 +6,11 @@
     --negro:#000000;
     --blanco: #FFF;
     --fuente-principal: 'Outfit', sans-serif;
+    background: linear-gradient(180deg, #4548AA 0%, rgba(69, 72, 170, 0.72) 73.44%);
+
+    ;
 }
+
 [class = "contenedor"]{
     max-width: 120rem;
     margin: 0 auto;
